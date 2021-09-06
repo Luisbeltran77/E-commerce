@@ -1,0 +1,23 @@
+{
+  "name": "e-commerce",
+  "version": "1.0.0",
+  "description": "e-commerce for products and more",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "products",
+    "e-commerce",
+    "price"
+  ],
+  "author": "Luis Felipe Beltran Navarrete",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.6",
+    "crypto-js": "^4.1.1",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.4",
+    "mongoose-unique-validator": "^2.0.3"
+  }
+}

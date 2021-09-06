@@ -1,0 +1,14 @@
+{
+    "db-connections":{
+        "mongodb":{
+            "host": "cluster0.wirs7.mongodb.net",
+            "user": "e-commerce",
+            "password": "7tLNd2hItc1afOL4",
+            "dbname": "E-commerceDB"
+        }
+    },
+    "secretKeys":{
+        "cryptojs": "!e&4-'C8@u<"
+    },
+    "server-port": 3001
+}
